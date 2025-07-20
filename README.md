@@ -72,4 +72,19 @@ All design elements are placed within clearly labeled frames, and repeated UI bl
 
 This project helped me explore how voice interactions can be designed visually, even in a tool like Figma that doesn't natively support voice. By simulating the voice flows with thoughtful UX patterns and transitions, I was able to prototype a full-featured smart home interface that feels natural and intuitive. This assignment not only sharpened my mobile UI design skills, but also gave me insight into how emerging technologies like voice assistants can be integrated with day-to-day UX design practices.
 
+# OUTPUT :
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4eaee22e-1ec5-4b38-a600-ed487327f2c0" />
+<img width="311" height="567" alt="Image" src="https://github.com/user-attachments/assets/44776381-7606-4006-9b6d-43187cced9e0" />
+<img width="297" height="586" alt="Image" src="https://github.com/user-attachments/assets/c48e90aa-1a3a-4060-afe2-f723dfb22131" />
+<img width="308" height="582" alt="Image" src="https://github.com/user-attachments/assets/124e41c4-fd5e-47be-84e3-3892f9c36cd5" />
+<img width="289" height="586" alt="Image" src="https://github.com/user-attachments/assets/822e7c5f-0016-4f87-9648-327d9da44574" />
+<img width="288" height="561" alt="Image" src="https://github.com/user-attachments/assets/7b1fa32a-04bf-40fd-b03c-cc81e77e44ac" />
+<img width="292" height="583" alt="Image" src="https://github.com/user-attachments/assets/d316f0e5-715b-474d-b961-f66d5d3b29b6" />
+<img width="278" height="570" alt="Image" src="https://github.com/user-attachments/assets/746e4e70-7e79-4071-ba4f-b6e0f225a8a2" />
+<img width="301" height="567" alt="Image" src="https://github.com/user-attachments/assets/8d9879da-c9dd-470a-839c-3c3cfcfeb6f9" />
+<img width="282" height="580" alt="Image" src="https://github.com/user-attachments/assets/7d61e977-1fcf-4d79-89f2-c296d46e2326" />
+<img width="293" height="570" alt="Image" src="https://github.com/user-attachments/assets/35beab88-d9fc-42fa-bf16-ca0408166749" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/028caefb-a97f-4aee-b24c-938f9d0a8ffb" />
+
 
